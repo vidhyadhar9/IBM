@@ -1,0 +1,39 @@
+/* Navbarh.css */
+.nav-parent {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-image:  linear-gradient(to bottom, #b896e1, #c8e1c8);/* Add background color as needed */
+    padding: 10px;
+    border-radius: 10px;
+    
+  }
+  
+  .nav-childs{
+    text-decoration: underline;
+   color: blueviolet;
+   text-size-adjust: 2px;
+  
+  }
+.btn:hover{ 
+        color: rgb(43, 220, 226);
+        box-shadow: 2px 2px;
+    }
+  .btn:focus{
+    text-decoration: underline;
+  background-color: rgb(156, 226, 43);
+   margin-top: 1px;
+    /* Add styles for the left side content if needed */
+  }
+  
+  .child-2 {
+    /* Add styles for the right side content if needed */
+  }
+  
+  .nav-item {
+    /* Add styles for individual nav items if needed */
+  }
+  
+
+  /* Add any additional CSS as needed for your specific design */
+  

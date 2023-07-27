@@ -1,0 +1,18 @@
+.btnn:hover{
+  
+  background-color:RGB(0, 108, 216);
+   margin-top: 2px;
+    /* Add styles for the left side content if needed */
+  }
+.btnn{
+    width:200px;
+    height: 200px;
+    margin-left:10px ;
+    /* box-shadow: 2px 2px ; */
+  }
+.h6{
+   color: blue;
+}
+.x{
+    width: 200px;
+}
